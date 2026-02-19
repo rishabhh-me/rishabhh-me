@@ -35,7 +35,7 @@ Tech: Python, NLP, Transformers, TTS
 ---
 
 ### 🔹 NLP / ML Experiments
-Hands-on experimentation with transformer models, embeddings, and applied machine learning pipelines.
+Hands-on experimentation with transformer models, embeddings, fine-tuning, and applied machine learning pipelines.
 
 ---
 
@@ -48,7 +48,7 @@ Hands-on experimentation with transformer models, embeddings, and applied machin
 
 ### 📊 Data & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,vscode" />
 </p>
 
 ---
@@ -75,6 +75,13 @@ Hands-on experimentation with transformer models, embeddings, and applied machin
 - Continual Learning & Memory-Augmented Models  
 - Applied Reinforcement Learning  
 - Production-ready ML pipelines  
+
+---
+
+## 🏢 Leadership & Community
+
+### 🚀 Founding Member – DeepBrain Labs
+Co-founded and actively contributing to DeepBrain Labs, an AI-focused research and development initiative building intelligent systems and applied ML solutions.
 
 ---
 
