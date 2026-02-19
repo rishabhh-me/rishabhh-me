@@ -1,102 +1,100 @@
+<h1 align="center">Hi 👋, I'm Rishav Tewari</h1>
+<h3 align="center">Machine Learning Engineer | NLP Enthusiast | Python Developer</h3>
 
-## Hi, I'm Rishav
+<p align="center">
+  <a href="https://github.com/rishabhh-me">
+    <img src="https://komarev.com/ghpvc/?username=rishabhh-me&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  </a>
+</p>
 
+---
 
-<br>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on to brushing up my skills
-- 🌱 I’m currently learning JAVA and DSA
-- 👯 I’m looking to collaborate on JavaScript and ML projects
-- 💬 Ask me about C, C++, CSS, Java and JavaScript
-- 📫 How to reach me: <a href="mailto:rishabhhh.7@gmail.com">rishabhhh.7@gmail.com</a>
+- 🎓 B.Tech in Information Technology (2025 Graduate)  
+- 🧠 Focused on **Machine Learning, NLP, and Reinforcement Learning**  
+- 💻 Strong in **Python-based ML systems and research implementation**  
+- 📊 Interested in building scalable AI solutions and applied research systems  
+- 📍 India  
+- 📫 Reach me at: **rishabhhh.7@gmail.com**
 
-<br/>
+---
 
-## Working Stack:
+## 🚀 Featured Projects
 
-<div align="center">
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-C-000000?&style=flat&logo=c&logoColor=5968BA" />
-    <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
-    <!-- <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" /> -->
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
-    <!-- <img src="https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=1E87E3" /> -->
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
-    <!-- <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=E53935"> -->
-    <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
-    <!-- <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br> -->
-    <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
-    <!-- <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" /> -->
-    <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <!-- <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" /> -->
-    <img src="https://img.shields.io/badge/-Repl-000000?style=flat&logo=repl.it&logoColor=E1E2E4" />
-    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
-</div>
-<br/>
+### 🔹 Continual Reinforcement Learning with Phi-2
+Research-focused implementation of continual learning using memory-augmented reinforcement learning techniques.  
+🔗 https://github.com/rishabhh-me/Continual_Reinforcement_Learning_with_Phi-2  
 
-<!-- ## Statistics
+---
 
-<div align="center"> -->
-<!--  
-  ### Trophies
+### 🔹 Paper2Podcast
+Convert academic papers into podcast-style audio using NLP and Text-to-Speech systems.  
+Tech: Python, NLP, Transformers, TTS  
 
-  [![Vishal's Trophy](https://github-profile-trophy.vercel.app/?username=psychopass-me&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=psychopass-me&row=1&column=7&margin-w=5&no-frame=true&theme=dracula) -->
+---
 
-  ### Github Stats
+### 🔹 NLP / ML Experiments
+Hands-on experimentation with transformer models, embeddings, and applied machine learning pipelines.
 
-  [![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=psychopass-me&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/psychopass-me?tab=repositories)
+---
 
-  ### Top Languages
-<!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-sys-code&count_private=true&include_all_commits=true&layout=compact&theme=dracula) -->
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychopass-me&theme=dracula)](https://github.com/psychopass-me/github-readme-stats)
+## 🛠️ Tech Stack
 
+### 🧠 Machine Learning & NLP
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-  <!-- ### Streak
+### 📊 Data & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,vscode" />
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychopass-me&theme=dracula)](https://git.io/streak-stats)
+---
 
-  ### Graph
+## 📊 GitHub Stats
 
-  [![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=psychopass-me &theme=dracula)](https://activity-graph.herokuapp.com/graph?username=psychopass-me&theme=dracula) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhh-me&show_icons=true&theme=tokyonight" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhh-me&layout=compact&theme=tokyonight" />
+</p>
 
-<!--
-<a href="https://github.com/sanchitbajaj02">
-  <img width="1000" src="https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhh-me&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Current Focus
+
+- Transformer-based NLP systems  
+- Continual Learning & Memory-Augmented Models  
+- Applied Reinforcement Learning  
+- Production-ready ML pipelines  
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" />
 </a>
--->
-
-### Contribution Graph
-<a href="https://activity-graph.herokuapp.com/graph?username=psychopass-me">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=psychopass-me&theme=dracula">
+<a href="mailto:rishabhhh.7@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
 </a>
+</p>
 
-### Github Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psychopass-me)](https://git.io/streak-stats)
+---
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanchitbajaj02&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-</a>-->
+## 💡 Research Mindset
 
-<!--
-<a href="https://github.com/Sanchitbajaj02?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula" />
-</a>
--->
+> Building intelligent systems that learn continuously, adapt efficiently, and scale responsibly.
 
-<!--  [![My Stats](https://github-readme-stats.vercel.app/api?username=vishal-sys-code&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&include_all_commits=true)](https://github.com/vishal-sys-code?tab=repositories) -->
+---
 
-<!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psychopass-me&layout=compact&show_icons=true&title_color=fe6287&icon_color=21e6c1&text_color=21e6c1&bg_color=0a192f)](https://github.com/psychopass-me?tab=repositories) -->
-
-
-  ### Trophies
-
-  [![Vishal's Trophy](https://github-profile-trophy.vercel.app/?username=psychopass-me&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=psychopass-me&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+⭐️ From [rishabhh-me](https://github.com/rishabhh-me)
